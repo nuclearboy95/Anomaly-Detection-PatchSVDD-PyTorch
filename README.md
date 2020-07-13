@@ -4,6 +4,10 @@ Patch SVDD for Image anomaly detection.
 An input image and a generated anomaly map for 'wood' class.
 
 ![wood](anomaly_maps/wood/n001.png)
+
+# Compatibility
+
+The code runs on python 3.7, pytorch 1.3.1, and torchvision 0.4.2.
  
 
 # Installation
