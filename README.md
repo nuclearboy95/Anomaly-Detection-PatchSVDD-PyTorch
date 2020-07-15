@@ -1,5 +1,5 @@
 # Patch SVDD
-Patch SVDD for Image anomaly detection.
+Patch SVDD for Image anomaly detection. Paper: https://arxiv.org/abs/2006.16067
 
 An input image and a generated anomaly map for 'wood' class.
 
